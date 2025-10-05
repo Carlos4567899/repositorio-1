@@ -20,3 +20,5 @@ Este proyecto implementa una calculadora científica que resuelve operaciones b�
    ```bash
    python calculadora.py
    El menú mostrará las operaciones disponibles. Ingresa tu elección y los valores.
+
+   El programa muestra un menú con opciones y recibe datos del usuario por consola. Según la opción seleccionada, ejecuta funciones matemáticas usando math y devuelve el resultado.
